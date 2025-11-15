@@ -13,8 +13,7 @@
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     </p>
 </h2>
-Code repository for MovieBot – an NLP-powered movie recommendation chatbot, written in Python, HTML/CSS and JavaScript as a part of Final Year Project for SRM Institute of Science and Technology. Uses Cosine Similarity model under-the-hood.
-
+Code repository for MovieBot – an NLP-powered movie recommendation chatbot.
 
 
 ## 🖥 Running this locally 
@@ -31,4 +30,5 @@ To run this program locally, follow these steps:
 - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=keywords.csv
 - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
 8. Lastly, execute `flask run --port 8000` and your program should be running at `http://127.0.0.1:8000/`
+
 
